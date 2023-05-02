@@ -1,0 +1,4 @@
+gato,cat
+sim,yes
+presunto,ham
+pneumonoultramicroscopicsilicovolcanoconiosis, pneumonoultramicroscopicsilicovolcanoconiose
